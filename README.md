@@ -1,4 +1,6 @@
 # Sellix Discord Bot
+
+Credit : https://github.com/fsalinas26
 A Complete Sellix.io Discord Bot using my [API wrapper](https://github.com/fsalinas26/sellix-api-wrapper)  
 <p align="center">
   <img src="https://i.gyazo.com/0943bf2926d9221f493fe2b6785080f6.png">
